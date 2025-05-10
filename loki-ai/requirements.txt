@@ -1,0 +1,7 @@
+speechrecognition
+pygame
+gTTS
+requests
+numpy
+pandas
+openai
